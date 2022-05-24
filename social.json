@@ -4,6 +4,7 @@
       "name": "Chris",
       "image": "https://www.artic.edu/iiif/2/77116871-129e-9e90-db84-b42f384022c1/full/843,/0/default.jpg",
       "age": 86,
+      "likes": 23,
       "comments": [
         "sdlckmsdc",
         "sdlkcmslkwewerwe",
@@ -16,6 +17,7 @@
       "name": "Lucy",
       "image": "https://www.artic.edu/iiif/2/8a731ed5-868d-994c-5d76-ec6d12f4c50b/full/843,/0/default.jpg",
       "age": 40,
+      "likes": 232,
       "comments": [
         "sdlckmsdc",
         "sdlkcmslkwewerwe",
@@ -28,6 +30,7 @@
       "name": "Andrew",
       "image": "https://www.artic.edu/iiif/2/d95a9754-a27e-94bd-0d3d-a5e3f69b2fdc/full/843,/0/default.jpg",
       "age": 22,
+      "likes": 23243,
       "comments": [
         "sdlckmsdc",
         "sdlkcmslkwewerwe",
@@ -40,6 +43,7 @@
       "name": "Teddy",
       "image": "https://www.artic.edu/iiif/2/aa6109d5-27cc-62e9-fb8c-9dfe9a73aa14/full/843,/0/default.jpg",
       "age": 28,
+      "likes": 23243686563,
       "comments": [
         "sdlckmsdc",
         "sdlkcmslkwewerwe",
@@ -52,6 +56,7 @@
       "name": "Kettle",
       "image": "https://www.artic.edu/iiif/2/13da0970-08b7-48bf-d96d-fb2b8fde3398/full/843,/0/default.jpg",
       "age": 262,
+      "likes": 23248385433,
       "comments": [
         "sdlckmsdc",
         "sdlkcmslkwewerwe",
